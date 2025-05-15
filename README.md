@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./logo.jpeg" alt="Osnat Achouche" width="150" style="border-radius: 50%;" />
+  <img src="./osnat.jpeg" alt="Osnat Achouche" width="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Osnat Ashush 👋</h1>
