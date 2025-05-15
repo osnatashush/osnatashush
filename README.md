@@ -79,10 +79,10 @@ I love transforming complex challenges into elegant, reliable solutions and am a
   <a href="https://linkedin.com/in/osnat-ashush" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/0584529888" target="_blank" rel="noopener noreferrer">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:osnat@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:osnat529@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
